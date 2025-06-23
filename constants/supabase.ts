@@ -1,0 +1,2 @@
+export const supaUrl = "https://rhlfnregqeidhtigopkn.supabase.co";
+export const anonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJobGZucmVncWVpZGh0aWdvcGtuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA2ODAxNTUsImV4cCI6MjA2NjI1NjE1NX0.4BIIV5iKJyTGF7zAaq8JMR4RP4a6bOlRn4gG-Bpk0-k";
