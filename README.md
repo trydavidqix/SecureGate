@@ -1,7 +1,5 @@
 # SecureGate - Autenticação com React Native e Supabase
 
-![SecureGate Logo](./assets/images/icon.png)
-
 ## Sobre o Projeto
 
 SecureGate é uma aplicação de autenticação desenvolvida com React Native e Expo, que utiliza o Supabase como backend para gerenciamento de usuários. O aplicativo implementa um sistema completo de autenticação, permitindo aos usuários criar conta, fazer login e gerenciar seu perfil.
